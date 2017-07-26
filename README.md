@@ -4,7 +4,7 @@ By: Jan Wira Gotama Putra
 
 ## How to Access
 
-Simply access the provided ```index.html``` or ```http://wiragotama.github.io```
+Simply access ```http://wiragotama.github.io```
 
 ## About
 
