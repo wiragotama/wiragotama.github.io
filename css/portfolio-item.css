@@ -25,3 +25,10 @@ footer {
 	width: 100px;
 	min-width: 100px;
 }
+
+.portofolio-table {
+	table-layout: fixed; 
+	width: 100%;
+	display: inline-block; 
+	vertical-align: text-top
+}
