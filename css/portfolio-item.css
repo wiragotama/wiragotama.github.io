@@ -19,3 +19,8 @@ footer {
 .container {
 	text-align: justify;
 }
+
+.year {
+	font-family: "Courier New";
+	width: 15%
+}
