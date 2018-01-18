@@ -32,3 +32,7 @@ footer {
 	display: inline-block; 
 	vertical-align: text-top
 }
+
+.publication li {
+	margin-bottom:	20px;
+}
