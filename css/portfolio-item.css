@@ -36,3 +36,7 @@ footer {
 .publication li {
 	margin-bottom:	20px;
 }
+
+.nostyle-list li {
+	list-style-type: none;
+}
