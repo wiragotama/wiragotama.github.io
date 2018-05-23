@@ -40,3 +40,8 @@ footer {
 .nostyle-list li {
 	list-style-type: none;
 }
+
+tr.highlight { 
+    border-bottom: 10px solid;
+    border-color: transparent;
+}
