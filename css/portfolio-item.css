@@ -30,7 +30,7 @@ footer {
 	table-layout: fixed; 
 	width: 100%;
 	display: inline-block; 
-	vertical-align: text-top
+	vertical-align: text-top;
 }
 
 .publication li {
