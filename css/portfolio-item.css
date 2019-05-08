@@ -24,6 +24,7 @@ footer {
 	font-family: "Monospace";
 	width: 100px;
 	min-width: 100px;
+	
 }
 
 .portofolio-table {
@@ -44,4 +45,20 @@ footer {
 tr.highlight { 
     border-bottom: 10px solid;
     border-color: transparent;
+}
+
+.page-header {
+	background-color: #F0F0F0;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.main-info {
+	font-size: 16px;
+}
+
+.other-links {
+	list-style: none;
+	padding-top: 20px;
+	padding-left: 0px;
 }
