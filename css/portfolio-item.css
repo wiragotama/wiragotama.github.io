@@ -51,6 +51,7 @@ tr.highlight {
 	background-color: #F0F0F0;
 	border-radius: 5px;
 	padding: 10px;
+
 }
 
 .main-info {
@@ -61,4 +62,15 @@ tr.highlight {
 	list-style: none;
 	padding-top: 20px;
 	padding-left: 0px;
+}
+
+.authorship {
+	font-weight: 480;
+	text-decoration: underline;
+	color: #183BE9;
+}
+
+.paperverdict {
+	font-weight: 700;
+	color: #C70039;
 }
