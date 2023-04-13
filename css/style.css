@@ -1384,3 +1384,15 @@ blockquote .person cite {
   border: solid 1px; 
   margin-left: 5px;
 }
+
+.photo-nav {
+  background-color: black;
+}
+
+.photo-nav a {
+  color: white;
+}
+
+.photo-nav ul li a {
+  color: white;
+}
