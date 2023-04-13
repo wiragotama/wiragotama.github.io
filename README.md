@@ -10,12 +10,15 @@ Simply access ```http://wiragotama.github.io```
 
 This project is created as my online personal page (professional page). Think of it as a kind of CV/card name
 
+## Template
+The website was made using SHIFT website template: [https://www.free-css.com/free-css-templates/page225/shift](https://www.free-css.com/free-css-templates/page225/shift)
 
-## Lisence
+
+## License
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Jan Wira Gotama Putra
+Copyright (c) 2023 Jan Wira Gotama Putra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
