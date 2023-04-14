@@ -1396,3 +1396,21 @@ blockquote .person cite {
 .photo-nav ul li a {
   color: white;
 }
+
+.fg:before {
+  content: attr(t);
+  display: block;
+    font-size: 50%;
+    text-align: start;
+  line-height: 1.5;
+}
+
+.fg {
+  display: inline-block;
+  text-indent: 0px;
+  line-height: normal;
+    -webkit-text-emphasis: none;
+  text-align: center;
+  line-height: 1;
+}
+
