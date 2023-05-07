@@ -1331,6 +1331,11 @@ blockquote .person cite {
   font-weight: bold;
 }
 
+.plinkline {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .plink {
   border-top-style: solid;
   border-right-style: solid;
